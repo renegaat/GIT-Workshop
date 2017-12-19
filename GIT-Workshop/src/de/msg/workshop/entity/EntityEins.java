@@ -7,6 +7,10 @@ public class EntityEins {
 	public String getVariableEins() {
 		return variableEins;
 	}
+	
+	
+	
+	
 
 	public void setVariableEins(String variableEins) {
 		this.variableEins = variableEins;
