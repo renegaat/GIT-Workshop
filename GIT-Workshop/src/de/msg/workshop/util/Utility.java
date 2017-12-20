@@ -5,6 +5,6 @@ public final class Utility {
 	private Utility(){};
 	
 	public static String returnTheWord(){
-		return "Word";
+		return "Word Fair-001";
     }
 }
