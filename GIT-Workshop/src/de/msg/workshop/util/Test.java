@@ -1,6 +1,5 @@
 package de.msg.workshop.util;
 
 public class Test {
-
-	//test commit
+ //hallo das ist auf fair 02 passiert
 }
