@@ -4,6 +4,8 @@ public class EntityZwei {
 	
 	private String variableEins;
 
+	private String variableNeu;
+
 	public String getVariableEins() {
 		return variableEins;
 	}
