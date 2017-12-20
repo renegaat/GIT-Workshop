@@ -8,10 +8,6 @@ public class EntityEins {
 		return variableEins;
 	}
 	
-	
-	
-	
-
 	public void setVariableEins(String variableEins) {
 		this.variableEins = variableEins;
 	}

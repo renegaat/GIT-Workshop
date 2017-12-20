@@ -1,6 +1,6 @@
 package de.msg.workshop.entity;
 
-public class EntityDreis {
+public class EntityDrei {
 
 
 }
