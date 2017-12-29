@@ -5,6 +5,6 @@ public final class Utility {
 	private Utility(){};
 	
 	public static String returnTheWord(){
-		return "this is a change made on Master";
+		return "this is second change made on Feature1";
     }
 }
