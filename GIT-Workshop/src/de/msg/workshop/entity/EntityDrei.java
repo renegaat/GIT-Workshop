@@ -4,5 +4,7 @@ public class EntityDrei {
 
     private int counter;
     private int counter2;
+    private int counter3;
+    private int counter4;
 
 }
